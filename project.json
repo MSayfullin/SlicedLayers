@@ -1,4 +1,9 @@
 {
+  "name": "SlicedLayers",
+  "title": "Sliced Layers",
+  "description": "Example of generic and simple layers separation",
+  "authors": [ "Marsel Sayfullin" ],
+  "copyright": "Copyright © 2016 - Marsel Sayfullin",
   "version": "1.0.0-*",
   "buildOptions": {
     "debugType": "portable"

@@ -5,7 +5,7 @@ namespace dokas.SlicedLayers.Example
     using System.Data;
     using System.Collections.Generic;
 
-    public class ReposBasedScenarios
+    public class RepoBasedScenarios
     {
         [Fact]
         public void DynamicLoadFromDb()

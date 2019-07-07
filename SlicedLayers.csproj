@@ -1,0 +1,23 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <Description>Example of generic and simple layers separation</Description>
+    <Copyright>Copyright © 2019 - Marsel Saifullin</Copyright>
+    <Authors>Marsel Saifullin</Authors>
+    <AssemblyTitle>Sliced Layers</AssemblyTitle>
+    <AssemblyName>SlicedLayers</AssemblyName>
+    <PackageId>SlicedLayers</PackageId>
+  </PropertyGroup>
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.2</TargetFramework>
+
+    <IsPackable>false</IsPackable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="xunit" Version="2.4.0" />
+    <PackageReference Include="xunit.runner.visualstudio" Version="2.4.0" />
+  </ItemGroup>
+
+</Project>
